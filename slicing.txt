@@ -1,0 +1,33 @@
+Let's say --> string = "python"
+now what string [ 0 : 5 : 1 ]
+it will move from index 0 to index 4 and take one step 
+so the resulting string will be "pytho"
+Now, what does this mean [ : : 1 ] 
+now we can write it as [ 0 : 6 : 1 ], it will print the whole 
+string as it is 
+Now, in case of negative let's say [ : : -1 ], what does this mean 
+it means this [ 5 : -1 : -1 ] which mean that we have to move 
+from very end and stop at the very beginning and taking one step back
+which means simply reversing the entire string.
+
+this is the slicing index for string etc..
+
+
+s [ start : stop : step ] 
+the default values for start and stop depends on the value of step.
+If step is positive it means move forward 
+If step is negative it means move backward 
+The default values also change then accordingly.
+[ : : 1 ] means start from very start to very take one one step forward
+   	  thus simply means printing the entire string as it is.
+[ : : -1 ] means start from very end to very beginning take one step
+	   backward means reversing the entire string.
+
+the default values should are [ : : : ]  or [ : : 1 ] are [ 0 : len(s) : 1 ]
+and for [ : : -1 ] it's as [ len(s)-1: -1 : -1], the -1 in stop value 
+indicates the value before first one because we have to exclude the 
+stop value so all the values should be printing including the firs one
+
+
+--> The start value is including in slicing 
+--> The stop value is excluding in slicing 

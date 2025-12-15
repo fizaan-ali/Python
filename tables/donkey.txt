@@ -1,0 +1,6 @@
+Donkey is an animal.
+Donkey has four legs.
+Donkey is not a neat animal.
+Donkey has two legs and one nose.
+Donkey is very famous animal.
+Donkey is a breeding animal.

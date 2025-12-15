@@ -1,0 +1,5 @@
+Fizaan is a good boy.
+I am 17 years old.
+This is amazing.
+I am writing Python.
+Hello there, How are you?
