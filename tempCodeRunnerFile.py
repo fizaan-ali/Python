@@ -1,1 +1,3 @@
-print(list(enumerate(["Fizaan", "ali", "shafiq"])))
+from math import sqrt
+
+print(sqrt(15))
