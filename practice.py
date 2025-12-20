@@ -9,3 +9,16 @@ print(''''
       Thank you for reading this.
       Bye Bye!
       ''')
+
+string = "This is great!"
+string_ = ""
+count = 0
+for i in string:
+      if i == " ":
+            count+=1
+      else:
+            string_ += i
+print(count); print(string_)
+
+
+print("{}".format("one", "two", "three"))

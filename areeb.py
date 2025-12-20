@@ -1,2 +1,2 @@
 # AREEB SHAFIQ MUGHAL
-print("Areeb")
+print("Areeb Shafiq Mughal")
